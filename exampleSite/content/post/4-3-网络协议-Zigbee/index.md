@@ -9,9 +9,10 @@ categories = [
 tags = [
     "网络协议","Zigbee"
 ]
+
 +++
 
-![](1.jpg)
+![](/1.jpg)
 
 ## Zigbee通信
 
