@@ -12,7 +12,7 @@ tags = [
 
 +++
 
-![](/1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-5-操作系统-Linux常用命令\1.jpg)
 
 ## Zigbee通信
 

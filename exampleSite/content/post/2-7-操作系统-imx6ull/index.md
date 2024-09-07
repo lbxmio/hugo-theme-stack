@@ -10,7 +10,7 @@ tags = [
     "操作系统","imx6ull"
 ]
 +++
-![](1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-3-操作系统-FreeRTOS\1.jpg)
 
 
 ## Linux学习（基于正点原子I.MX6U）

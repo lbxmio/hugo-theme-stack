@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-![](1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\1-1-C语言-内存\1.jpg)
 
 ## 速记
 

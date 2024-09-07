@@ -10,7 +10,7 @@ tags = [
     "操作系统","进程&线程"
 ]
 +++
-![](/1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\0-2-嵌软笔试面试-经典\1.jpg)
 
 ## 操作系统——进程&线程
 

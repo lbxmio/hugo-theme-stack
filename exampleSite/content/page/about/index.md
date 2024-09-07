@@ -19,6 +19,8 @@ menu:
 
 ## 兴趣爱好
 > 喜欢听歌，剪视频；
+>
+> ![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-2-单片机-通信协议\1.jpg)
 
 
 

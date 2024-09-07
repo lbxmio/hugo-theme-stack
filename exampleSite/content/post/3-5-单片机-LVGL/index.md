@@ -10,7 +10,7 @@ tags = [
     "单片机","LVGL"
 ]
 +++
-![](1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-5-操作系统-Linux常用命令\1.jpg)
 
 # lvgl文档（http://lvgl.100ask.net/8.2/）
 

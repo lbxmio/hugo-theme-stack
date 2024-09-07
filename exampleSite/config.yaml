@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🌟
-        subtitle: 这是醉慕的博客网站
+        subtitle: 这里是醉慕的私人基地
         avatar:
             enabled: true
             local: true
