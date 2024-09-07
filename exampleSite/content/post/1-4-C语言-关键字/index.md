@@ -9,8 +9,9 @@ categories = [
 tags = [
     "C语言","关键字篇"
 ]
+
 +++
-![](1.jpg)
+![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\0-1-嵌软笔试面试\1.jpg)
 ## C语言——关键字
 
 ### goto
