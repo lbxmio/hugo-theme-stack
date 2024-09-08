@@ -10,7 +10,7 @@ tags = [
     "操作系统","杂项"
 ]
 +++
-![img-1714439566152b6069bba46499b5aca69a09158d2cdfb](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-0-操作系统-杂项\img-1714439566152b6069bba46499b5aca69a09158d2cdfb.jpg)
+![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-0-操作系统-杂项\1.jpg)
 
 ## 操作系统——杂项MISC
 
