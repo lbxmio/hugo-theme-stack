@@ -9,4 +9,4 @@
 > https://www.bilibili.com/video/BV17a4y1X7ga
 >
 ## 在线查看
-> [[ttps://coucoublog.netlify.app/](https://coucoublog.netlify.app/)
+> https://coucoublog.netlify.app/
