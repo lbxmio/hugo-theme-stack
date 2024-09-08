@@ -22,5 +22,3 @@ menu:
 >
 
 
-
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\page\about\1.jpg)
