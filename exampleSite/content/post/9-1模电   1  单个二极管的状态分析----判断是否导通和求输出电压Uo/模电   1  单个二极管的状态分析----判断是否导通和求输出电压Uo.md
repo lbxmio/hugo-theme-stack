@@ -1,8 +1,8 @@
 +++
 author = "zuimu"
 title = "单个二极管状态分析"
-date = "2022-12-5"
-description = "单个二极管状态分析，判断是否导通和求输出电压"
+date = "2022-11-06"
+description = "判断是否导通和求输出电压Uo"
 categories = [
     "模电"
 ]
