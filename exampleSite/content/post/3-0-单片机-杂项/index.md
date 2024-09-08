@@ -10,7 +10,7 @@ tags = [
     "单片机","杂项"
 ]
 +++
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-0-单片机-杂项\1.jpg)
+![](1.jpg)
 ## 单片机
 
 ## 51单片机的延时计算

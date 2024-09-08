@@ -13,7 +13,7 @@ tags = [
 +++
 
 
-![18](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-4-单片机-ARM架构\18.jpg)
+![](18.jpg)
 
 ## ARM通识
 

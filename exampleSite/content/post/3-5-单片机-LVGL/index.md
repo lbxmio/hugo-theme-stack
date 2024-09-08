@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-5-单片机-LVGL\1.jpg)
+![](1.jpg)
 
 # lvgl文档（http://lvgl.100ask.net/8.2/）
 

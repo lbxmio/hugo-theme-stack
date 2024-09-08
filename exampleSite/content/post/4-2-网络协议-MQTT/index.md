@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\4-2-网络协议-MQTT\1.jpg)
+![](1.jpg)
 
 ## 一，MQTT协议
 

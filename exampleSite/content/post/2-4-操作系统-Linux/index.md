@@ -10,7 +10,7 @@ tags = [
     "操作系统","Linux"
 ]
 +++
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-4-操作系统-Linux\1.jpg)
+![](1.jpg)
 
 # Linux操作系统
 

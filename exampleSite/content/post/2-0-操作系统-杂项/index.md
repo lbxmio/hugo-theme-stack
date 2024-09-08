@@ -10,7 +10,7 @@ tags = [
     "操作系统","杂项"
 ]
 +++
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-0-操作系统-杂项\1.jpg)
+![](1.jpg)
 
 ## 操作系统——杂项MISC
 

@@ -12,7 +12,7 @@ tags = [
 
 +++
 
-![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\4-4-网络协议-TCP&UDP\1.jpg)
+![](1.jpg)
 
 ## 网络协议——TCP&UDP
 
