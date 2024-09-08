@@ -10,7 +10,7 @@ tags = [
     "单片机","杂项"
 ]
 +++
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-5-操作系统-Linux常用命令\1.jpg)
+![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-0-单片机-杂项\1.jpg)
 ## 单片机
 
 ## 51单片机的延时计算

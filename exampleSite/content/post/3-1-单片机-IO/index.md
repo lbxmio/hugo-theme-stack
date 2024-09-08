@@ -10,7 +10,9 @@ tags = [
     "单片机","IO"
 ]
 +++
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\1-4-C语言-关键字\1.jpg)
+
+
+![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-1-单片机-IO\1.jpg)
 
 ## 单片机——IO
 

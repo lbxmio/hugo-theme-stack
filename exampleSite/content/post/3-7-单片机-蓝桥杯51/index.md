@@ -9,9 +9,12 @@ categories = [
 tags = [
     "单片机","蓝桥杯51"
 ]
+
 +++
 
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\1-1-C语言-内存\1.jpg)
+
+
+![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\3-7-单片机-蓝桥杯51\1.jpg)
 
 ## 速记
 

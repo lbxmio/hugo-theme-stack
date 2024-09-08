@@ -9,8 +9,9 @@ categories = [
 tags = [
     "C语言","指针&数组篇"
 ]
-+++
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\1-0-C语言-杂项\1.jpg)
+
+
+
 ## C语言——指针&数组
 
 ### 指针

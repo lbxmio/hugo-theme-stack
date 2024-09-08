@@ -10,7 +10,7 @@ tags = [
     "操作系统","进程&线程"
 ]
 +++
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\0-2-嵌软笔试面试-经典\1.jpg)
+![img-1714439566152b6069bba46499b5aca69a09158d2cdfb](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-1-操作系统-进程&线程\img-1714439566152b6069bba46499b5aca69a09158d2cdfb.jpg)
 
 ## 操作系统——进程&线程
 

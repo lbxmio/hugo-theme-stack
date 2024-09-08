@@ -9,8 +9,11 @@ categories = [
 tags = [
     "操作系统","进程&线程实操"
 ]
+
 +++
-![](D:\Desktop\hugo-theme-stack\exampleSite\content\post\1-3-C语言-预处理\1.jpg)
+
+
+![1](D:\Desktop\hugo-theme-stack\exampleSite\content\post\2-2-操作系统-进程线程实操\1.jpg)
 
 ## Linux 多进程和多线程编程
 
