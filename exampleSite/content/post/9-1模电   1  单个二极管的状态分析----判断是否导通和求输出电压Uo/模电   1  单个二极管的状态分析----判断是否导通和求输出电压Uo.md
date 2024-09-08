@@ -2,7 +2,7 @@
 author = "zuimu"
 title = "单个二极管状态分析"
 date = "2022-12-5"
-description = "单个二极管状态分析"
+description = "单个二极管状态分析，判断是否导通和求输出电压"
 categories = [
     "模电"
 ]
@@ -16,7 +16,7 @@ tags = [
 
 # 单个二极管状态分析
 
-![screen-capture](bf7d19c90fbdd15316108d25dc007454.png)
+![](1.png)
 
 ## 1.电路完整的话跳过1，电路不完整：
 
